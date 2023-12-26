@@ -1,0 +1,8 @@
+{
+  "short_name": "Sorteador",
+  "name": "Sorteador de Amigo Secreto",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
